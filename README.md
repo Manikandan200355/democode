@@ -1,2 +1,2 @@
-# democode
+# demo
 my first project
